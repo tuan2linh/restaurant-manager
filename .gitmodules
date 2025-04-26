@@ -1,0 +1,6 @@
+[submodule "restaurant-manager-backend"]
+	path = restaurant-manager-backend
+	url = https://github.com/tuan2linh/mobile-app-restaurant-be
+[submodule "restaurant-manager-frontend"]
+	path = restaurant-manager-frontend
+	url = https://github.com/tuan2linh/restaurant-manager-fe
